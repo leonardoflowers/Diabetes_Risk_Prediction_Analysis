@@ -1,1 +1,1 @@
-# Capstone_Project_Diabetes_Prediction_Analysis
+# Diabetes Risk Prediction Analysis
