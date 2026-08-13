@@ -20,8 +20,8 @@ Diabetes_binary — whether the respondent reported a diabetes diagnosis
 2. **Exploratory analysis:** Examined the number of people with and without diabetes and compared BMI and age between the two groups. Also looked at how BMI, age, and high blood pressure were related to diabetes.
 3. **Data Preparation:** Standardized BMI and age using z-score scaling and split the data into 80% for training and 20% for testing.
 4. **Modeling:** Built and compared two models:
-5. - **Logistic Regression:** Used as a simple and easy to understand baseline model.
-   - **Random Forest:** Used 100 decision trees to identify more complex patterns and relationships in the data.
+ - **Logistic Regression:** Used as a simple and easy to understand baseline model.
+ - **Random Forest:** Used 100 decision trees to identify more complex patterns and relationships in the data.
 6. **Evaluation:** Compared the models using accuracy, recall, and AUC ROC. Confusion matrices and feature importance were also used to better understand the results.
 
 ### Results
