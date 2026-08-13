@@ -39,7 +39,7 @@ Diabetes_binary — whether the respondent reported a diabetes diagnosis
 ### Tools
 - **Python Library:** Pandas, Numpy 
 - **Visualization:** Matplotlib, Seaborn
--  **Modeling:** scikit-learn (Logistic Regression, Random Forest, train/test split, evaluation metrics)
+-  **Modeling:** Scikit-learn (Logistic Regression, Random Forest, train/test split, evaluation metrics)
 
  ### Cited Source
  Teboul, A. Diabetes Health Indicators Dataset, Kaggle, sourced from the CDC Behavioral Risk Factor Surveillance System (BRFSS) 2015. https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset
