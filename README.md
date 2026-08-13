@@ -13,8 +13,7 @@ CDC Diabetes Health Indicators Dataset (Kaggle, via BRFSS 2015)
 253,680 survey responses, 22 variables (BMI, blood pressure, cholesterol, physical activity, general/mental/physical health, age, income, education, and more)
 #### **Target**: 
 Diabetes_binary — whether the respondent reported a diabetes diagnosis
-
-The dataset is naturally imbalanced (most respondents do not have diabetes); this imbalance was kept intentional rather than artificially rebalanced, since the goal was to model real-world prevalence rather than an idealized 50/50 split.
+- The dataset is naturally imbalanced (most respondents do not have diabetes); this imbalance was kept intentional rather than artificially rebalanced, since the goal was to model real-world prevalence rather than an idealized 50/50 split.
 
 ### Approach 
 1. **Data cleaning:** Checked data types, identified missing values, and removed duplicate records
